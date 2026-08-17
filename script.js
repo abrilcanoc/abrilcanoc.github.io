@@ -7,7 +7,7 @@ const catalog = [
     category: "Bolso piedras",
     title: "Bolsa Aurora",
     description: "Diseño artesanal con textura suave, ideal para salidas diarias o eventos especiales.",
-    price: "Desde $120.000",
+    price: "Desde $150.000",
     tags: ["Hecho a mano", "Personalizable"],
     img: "images/20250725_163453.jpg",
   },
@@ -16,7 +16,7 @@ const catalog = [
     category: "Bolso macramé",
     title: "Bolsa Nécar",
     description: "Formato compacto con terminaciones elegantes y combinación de tonos neutros.",
-    price: "Desde $95.000",
+    price: "Desde $100.000",
     tags: ["Compacta", "Versátil"],
     img: "images/IMG-20260713-WA0015.jpg",
   },
@@ -25,7 +25,7 @@ const catalog = [
     category: "Bolso macramé",
     title: "Bolsa Jade",
     description: "Pieza con presencia y carácter, pensada para uso diario y combinaciones cálidas.",
-    price: "Desde $135.000",
+    price: "Desde $115.000",
     tags: ["Edición artesanal", "Pedido especial"],
     img: "images/IMG-20260710-WA0029.jpg",
   },
@@ -34,7 +34,7 @@ const catalog = [
     category: "Bolso macramé",
     title: "Bolsa Tierra",
     description: "Pieza con presencia y carácter, pensada para uso diario y combinaciones cálidas.",
-    price: "Desde $135.000",
+    price: "Desde $150.000",
     tags: ["Edición artesanal", "Pedido especial"],
     img: "images/20250910_175414.jpg",
   },
@@ -43,7 +43,7 @@ const catalog = [
     category: "Bolso perlas",
     title: "Bolso Reflejo",
     description: "Accesorio pequeño para regalar o complementar bolsos y mochilas.",
-    price: "Desde $18.000",
+    price: "Desde $100.000",
     tags: ["Regalo", "Detalle"],
     img: "images/20251027_101252.jpg",
   },
@@ -52,7 +52,7 @@ const catalog = [
     category: "Bolso macramé",
     title: "Bolso Noche",
     description: "Accesorio delicado con acabado artesanal y colores suaves.",
-    price: "Desde $25.000",
+    price: "Desde $90.000",
     tags: ["Delicado", "Minimalista"],
     img: "images/20250904_170647.jpg",
   },
@@ -61,7 +61,7 @@ const catalog = [
     category: "Accesorios",
     title: "Llavero Colombia",
     description: "Accesorio pequeño para regalar o complementar bolsos y mochilas.",
-    price: "Desde $18.000",
+    price: "Desde $25.000",
     tags: ["Regalo", "Detalle"],
     img: "images/20260630_102454.jpg",
   },
@@ -70,7 +70,7 @@ const catalog = [
     category: "Accesorios",
     title: "Aretes Mar",
     description: "Accesorio delicado con acabado artesanal y colores suaves.",
-    price: "Desde $25.000",
+    price: "Desde $50.000",
     tags: ["Delicado", "Minimalista"],
     img: "images/IMG-20220921-WA0017.jpg",
   },
@@ -79,7 +79,7 @@ const catalog = [
     category: "Accesorios",
     title: "Aretes Amor",
     description: "Accesorio delicado con acabado artesanal y colores suaves.",
-    price: "Desde $25.000",
+    price: "Desde $50.000",
     tags: ["Delicado", "Minimalista"],
     img: "images/WhatsAppImage2026-08-13.jpeg",
   },
@@ -88,7 +88,7 @@ const catalog = [
     category: "Decoración macramé",
     title: "Decoración Navidad",
     description: "Accesorio pequeño para regalar o complementar bolsos y mochilas.",
-    price: "Desde $18.000",
+    price: "Desde $90.000",
     tags: ["Regalo", "Detalle"],
     img: "images/IMG-20251106-WA0020.jpg",
   },
@@ -97,7 +97,7 @@ const catalog = [
     category: "Decoración macramé",
     title: "Decoración Quarzos",
     description: "Accesorio pequeño para regalar o complementar bolsos y mochilas.",
-    price: "Desde $18.000",
+    price: "Desde $90.000",
     tags: ["Regalo", "Detalle"],
     img: "images/Screenshot_20240513_213757_Pinterest.jpg",
   },
@@ -106,7 +106,7 @@ const catalog = [
     category: "Decoración macramé",
     title: "Decoración Jerarquía",
     description: "Accesorio pequeño para regalar o complementar bolsos y mochilas.",
-    price: "Desde $18.000",
+    price: "Desde $70.000",
     tags: ["Regalo", "Detalle"],
     img: "images/IMG-20240509-WA0055.jpg",
   },
@@ -115,7 +115,7 @@ const catalog = [
     category: "Decoración macramé",
     title: "Proteccion San Benito",
     description: "Accesorio pequeño para regalar o complementar bolsos y mochilas.",
-    price: "Desde $18.000",
+    price: "Desde $40.000",
     tags: ["Regalo", "Detalle"],
     img: "images/20260622_125509.jpg",
   },
@@ -124,7 +124,7 @@ const catalog = [
     category: "Decoración macramé",
     title: "Decoración Aura",
     description: "Accesorio pequeño para regalar o complementar bolsos y mochilas.",
-    price: "Desde $18.000",
+    price: "Desde $60.000",
     tags: ["Regalo", "Detalle"],
     img: "images/u132OfU7656Ty1cH.jpg",
   },
@@ -133,7 +133,7 @@ const catalog = [
     category: "Decoración macramé",
     title: "Decoración ()",
     description: "Accesorio pequeño para regalar o complementar bolsos y mochilas.",
-    price: "Desde $18.000",
+    price: "Desde $40.000",
     tags: ["Regalo", "Detalle"],
     // img: "images/eTe722ZGM5qo4R3J.jpg",
     img: "images/20240413_224830.jpg",
@@ -170,7 +170,7 @@ const catalog = [
     category: "Ropa personalizada",
     title: "Sombrero Macramé",
     description: "Intervención de ropa con bordados, detalles o aplicaciones hechas a medida.",
-    price: "Cotización a medida",
+    price: "$30.000",
     tags: ["A pedido", "Artesanal"],
     img: "images/20260622_123316.jpg",
   },
@@ -188,7 +188,7 @@ const catalog = [
     category: "Pulsera Tejida",
     title: "Pulsera ",
     description: "Intervención de ropa con bordados, detalles o aplicaciones hechas a medida.",
-    price: "Cotización a medida",
+    price: "$40.000",
     tags: ["A pedido", "Artesanal"],
     img: "images/Pulsera.jpg",
   },
@@ -197,7 +197,7 @@ const catalog = [
     category: "Detalles",
     title: "Cuadro Regalo",
     description: "Intervención de ropa con bordados, detalles o aplicaciones hechas a medida.",
-    price: "Cotización a medida",
+    price: "$50.000",
     tags: ["A pedido", "Artesanal"],
     img: "images/20240530_225856.jpg",
   },
@@ -206,7 +206,7 @@ const catalog = [
     category: "Detalles",
     title: "Cuadro Regalo",
     description: "Intervención de ropa con bordados, detalles o aplicaciones hechas a medida.",
-    price: "Cotización a medida",
+    price: "$50.000",
     tags: ["A pedido", "Artesanal"],
     img: "images/20250417_085033.jpg",
   },
@@ -244,6 +244,7 @@ const courses = [
     location: "Bogotá, Colombia",
     description:
       "Aprende los nudos básicos, la estructura de una pieza y cómo crear tus primeras bolsas y accesorios con materiales sencillos y un enfoque práctico.",
+    img: "images/20260622_125509.jpg",
   },
 ];
 
@@ -345,34 +346,46 @@ function renderCourses() {
   coursesGrid.innerHTML = courses
     .map(
       (course) => `
-        <article class="rounded-[2rem] bg-white p-6 shadow-soft ring-1 ring-black/5">
-          <div class="flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
-            <div>
+        <article class="rounded-[2rem] bg-white shadow-soft ring-1 ring-black/5 overflow-hidden">
+          <div class="flex flex-col md:flex-row gap-6 p-6">
+            <!-- Left: Course Image -->
+            <div class="flex-shrink-0">
+              <div class="h-48 w-48 overflow-hidden rounded-2xl">
+                <img
+                  src="${course.img || "images/20260622_125509.jpg"}"
+                  alt="${course.title}"
+                  class="h-full w-full object-cover"
+                />
+              </div>
+            </div>
+
+            <!-- Center: Course Info -->
+            <div class="flex-1">
               <p class="text-xs font-semibold uppercase tracking-[0.25em] text-clay">Curso</p>
-              <h3 class="mt-2 font-display text-4xl text-ink">${course.title}</h3>
+              <h3 class="mt-2 font-display text-3xl text-ink">${course.title}</h3>
+              <p class="mt-4 text-base leading-7 text-cocoa/80">${course.description}</p>
+              <div class="mt-5 rounded-2xl bg-sand p-4 ring-1 ring-black/5 inline-block">
+                <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cocoa/70">Ubicación</p>
+                <p class="mt-2 text-sm font-medium text-cocoa">${course.location}</p>
+              </div>
             </div>
-            <a
-              href="${buildWhatsappLink(`Hola, quiero más información sobre el curso ${course.title}.`)}"
-              target="_blank"
-              rel="noreferrer"
-              class="inline-flex items-center justify-center rounded-full bg-cocoa px-5 py-3 text-sm font-semibold text-white transition hover:bg-ink"
-            >
-              Inscribirme
-            </a>
-          </div>
 
-          <div class="mt-6 grid gap-4 sm:grid-cols-2">
-            <div class="rounded-2xl bg-sand p-4 ring-1 ring-black/5">
-              <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cocoa/70">Fecha</p>
-              <p class="mt-2 text-base font-medium text-cocoa">${course.date}</p>
-            </div>
-            <div class="rounded-2xl bg-sand p-4 ring-1 ring-black/5">
-              <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cocoa/70">Ubicación</p>
-              <p class="mt-2 text-base font-medium text-cocoa">${course.location}</p>
+            <!-- Right: Calendar Date Card + CTA -->
+            <div class="flex flex-col items-center gap-4 md:w-auto">
+              <div class="rounded-2xl bg-gradient-to-br from-clay to-cocoa p-6 text-center text-white shadow-soft w-40 md:w-auto">
+                <p class="text-xs font-semibold uppercase tracking-[0.2em] text-white/80">Próximo curso</p>
+                <p class="mt-3 font-display text-2xl leading-tight">${course.date}</p>
+              </div>
+              <a
+                href="${buildWhatsappLink(`Hola, quiero inscribirme al curso ${course.title}.`)}"
+                target="_blank"
+                rel="noreferrer"
+                class="inline-flex items-center justify-center rounded-full bg-cocoa px-6 py-3 text-sm font-semibold text-white transition hover:bg-ink whitespace-nowrap"
+              >
+                Inscribirme
+              </a>
             </div>
           </div>
-
-          <p class="mt-6 text-base leading-7 text-cocoa/80">${course.description}</p>
         </article>
       `,
     )
